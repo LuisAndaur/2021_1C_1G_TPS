@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1624213511 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp3cb\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+	"menu.h"
+	"Controller.h"
+
+1565993298 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp3cb\linkedlist.h
+
+1624081335 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp3cb\employee.h
+
+1624081328 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp3cb\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Employee.h"
+	"utn.h"
+
+1624214261 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp3cb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+	"menu.h"
+
+1624079493 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp3cb\controller.h
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1624074343 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp3cb\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+
+1621039187 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp3cb\utn.h
+
+1624030179 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp3cb\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1624030353 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp3cb\parser.h
+	"LinkedList.h"
+	"Employee.h"
+
+1623877333 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp3cb\menu.h
+
+1624075723 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp3cb\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+	"menu.h"
+
