@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1625010608 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1624923568 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp4\linkedlist.h
+
+1625253515 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp4\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+
+1625253790 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp4\alumno.h
+	"LinkedList.h"
+
+1625254432 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"LinkedList.h"
+
